@@ -4,9 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dilusha98&label=Profile%20views&color=0e75b6&style=flat" alt="dilusha98" /> </p>
 
-- 🌱 I’m currently learning **SpringBoot,ReactJs**
+- 🌱 I’m currently learning **SpringBoot , ReactJs**
 
-- 💬 Ask me about **Java,JavaScript**
+- 💬 Ask me about **Java , JavaScript**
 
 - 📫 How to reach me **dilushasenevirathna@gmail.com**
 
