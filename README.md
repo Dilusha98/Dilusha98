@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **SpringBoot , Laravel , ReactJs**
 
-- 💬 Ask me about **Java , JavaScript**
+- 💬 Ask me about **Laravel , PHP , Java , JavaScript**
 
 - 📫 How to reach me **dilushasenevirathna@gmail.com**
 
