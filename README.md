@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Laravel , Node Js , eact Js **
 
-- 💬 Ask me about **Laravel , PHP , Java , JavaScript**
+- 💬 Ask me about **Laravel , PHP , JavaScript**
 
 - 📫 How to reach me **dilushasenevirathna@gmail.com**
 
