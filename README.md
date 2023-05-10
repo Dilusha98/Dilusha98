@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dilusha98&label=Profile%20views&color=0e75b6&style=flat" alt="dilusha98" /> </p>
 
-- 🌱 I’m currently learning **SpringBoot , Laravel , ReactJs**
+- 🌱 I’m currently learning **Laravel , Node Js , eact Js **
 
 - 💬 Ask me about **Laravel , PHP , Java , JavaScript**
 
